@@ -1,6 +1,6 @@
 
 /*#include <stdio.h>
-/* Print the sum of the integers from 1 to 1000 */
+ Print the sum of the integers from 1 to 1000 
 intmain(int argc, char **argv)
 	{    
 		int i;    
